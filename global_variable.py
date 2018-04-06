@@ -1,0 +1,13 @@
+flag=0
+clock=0
+time_passed=0
+blocks=[]
+end_record=0
+result_clock=0
+time_passed2=0
+_score=0
+wavFile=0
+midiFile=0
+midiFileName=0
+wavFileName=0
+result=0
